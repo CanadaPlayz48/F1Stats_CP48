@@ -1,0 +1,12 @@
+td{
+    border: 2px solid;
+    padding: 10px;
+  }
+  
+th {
+  border: 2px solid;
+}
+
+  body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
